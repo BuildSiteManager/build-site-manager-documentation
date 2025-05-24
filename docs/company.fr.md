@@ -1,6 +1,6 @@
 # Société
 
-Dans cette section, nous allons voir comment gérer les membres d'une société ainsi que leurs roles.
+Dans cette section, nous allons voir comment gérer les membres d'une société ainsi que leurs rôles.
 
 ## Employés
 
@@ -19,11 +19,11 @@ En cliquant sur ce symbole, on a la possibilité de créer un code d'invitation 
 
 L'utilisateur rentrera alors ce code d'invitation comme expliqué dans la section [S'enregistrer](./register.fr.md).
 
-!!!note
-    Pour inviter l'employé est qu'il puisse créer l'employé dès qu'il saisit le code d'invitation, cliquez sur simplement sur le bouton `INVITER` et transmettez le code d'invitation à l'utilisateur.
+!!! note
+    Pour inviter l'employé afin qu'il puisse créer son compte dès qu'il saisit le code d'invitation, cliquez simplement sur le bouton `INVITER` et transmettez le code d'invitation à l'utilisateur.
 
 ## Rôles
-Les rôles contiennent des permissions, ces permissions permettent d'effectuer des actions dans l'application. Par defaut, un rôle appelé `Admin` est créé et possède un accès complet à l'application.
+Les rôles contiennent des permissions, ces permissions permettent d'effectuer des actions dans l'application. Par défaut, un rôle appelé `Admin` est créé et possède un accès complet à l'application.
 
 !!! warning Remarque
     Au moins un rôle ayant des accès complets doit être attribué à un utilisateur de la société. L'application ne laissera pas modifier les rôles si cette condition n'est pas respectée.
@@ -32,7 +32,7 @@ Les rôles contiennent des permissions, ces permissions permettent d'effectuer d
 
 ### Attribuer des rôles
 
-Une fois un l'utilisateur sélectionné dans la liste de gauche, on peut modifier les rôles qui lui sont attribués en sélectionnant les rôles dans la liste de droite.
+Une fois l'utilisateur sélectionné dans la liste de gauche, on peut modifier les rôles qui lui sont attribués en sélectionnant les rôles dans la liste de droite.
 
 !!! note
     Le détail des rôles peut être visualisé en cliquant sur le petit ![company_role_information](./assets/img/company_role_information.png) à côté du nom du rôle. 

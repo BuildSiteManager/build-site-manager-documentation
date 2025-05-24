@@ -1,7 +1,7 @@
 # Introduction
 
-Bienvenue sur la documentation de l'application *BuildSiteManager*. 
+Bienvenue sur la documentation de l'application *BuildSiteManager*.
 
-Cette documentation à pour but de transmettre les connaissances nécessaires à la bonne utilisation de l'application.
+Cette documentation a pour but de transmettre les connaissances nécessaires à la bonne utilisation de l'application.
 
 
