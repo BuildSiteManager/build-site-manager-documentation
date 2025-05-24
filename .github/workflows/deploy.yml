@@ -1,0 +1,54 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches: [main]
+  # Allow manual workflow dispatch
+  workflow_dispatch:
+
+# Set permissions for GitHub Pages deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Ensure only one deployment runs at a time
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history for proper git info in MkDocs
+          fetch-depth: 0
+
+      - name: Install python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'  # Updated to more recent stable version
+          cache: 'pip'  # Enable pip caching for faster builds
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build MkDocs
+        run: mkdocs build --verbose --strict  # Added flags for better error handling
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
