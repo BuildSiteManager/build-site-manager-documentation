@@ -1,0 +1,41 @@
+site_name: Build Site Manager 
+theme:
+  name: material
+  palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch-off-outline
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: indigo 
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch
+          name: Switch to light mode
+extra:
+  locales:
+    fr:
+    en:
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Accueil: Home
+
+nav:
+  - Accueil: index.md
