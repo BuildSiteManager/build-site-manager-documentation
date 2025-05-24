@@ -28,6 +28,7 @@ extra:
     en:
 
 plugins:
+  - glightbox
   - search
   - i18n:
       docs_structure: suffix
