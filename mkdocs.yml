@@ -16,6 +16,12 @@ theme:
         toggle:
           icon: material/toggle-switch
           name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 extra:
   locales:
     fr:
@@ -36,6 +42,10 @@ plugins:
           build: true
           nav_translations:
             Accueil: Home
+            S'enregistrer: Register
+            Société: Company
 
 nav:
   - Accueil: index.md
+  - S'enregistrer: register.md
+  - Société: company.md
