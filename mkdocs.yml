@@ -45,8 +45,12 @@ plugins:
             Accueil: Home
             S'enregistrer: Register
             Société: Company
+            Projet: Project
+            Autorisation sur les tâches: Task authorizations
 
 nav:
   - Accueil: index.md
   - S'enregistrer: register.md
   - Société: company.md
+  - Projet: project.md
+  - Autorisation sur les tâches: task_authorization.md
