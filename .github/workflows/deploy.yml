@@ -49,5 +49,13 @@ jobs:
           path: './site'
 
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin gh-pages || true
+          git switch gh-pages || git checkout --orphan gh-pages
+          git rm -rf . || true
+          cp -r site/* .
+          git add .
+          git commit -m "Deploy MkDocs site [skip ci]" || echo "No changes to commit"
+          git push origin gh-pages
