@@ -48,6 +48,7 @@ plugins:
             Projet: Project
             Autorisation sur les tâches: Task authorizations
             Type de temps: Time type
+            Gestion des licences: Licences management
             Saisie des heures: Scheduler
 
 nav:
@@ -57,4 +58,5 @@ nav:
   - Projet: project.md
   - Autorisation sur les tâches: task_authorization.md
   - Type de temps: time_type.md
+  - Gestion des licences: licences_management.md
   - Saisie des heures: scheduler.md

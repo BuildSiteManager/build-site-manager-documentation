@@ -20,7 +20,7 @@ En cliquant sur ce symbole, on a la possibilité de créer un code d'invitation 
 L'utilisateur rentrera alors ce code d'invitation comme expliqué dans la section [S'enregistrer](./register.fr.md).
 
 !!! note
-    Pour inviter l'employé afin qu'il puisse créer son compte dès qu'il saisit le code d'invitation, cliquez simplement sur le bouton `INVITER` et transmettez le code d'invitation à l'utilisateur.
+    Pour inviter l'utilisateur afin qu'il puisse saisir les information de l'employé dès qu'il saisit le code d'invitation, cliquez simplement sur le bouton `INVITER` et transmettez le code d'invitation à l'utilisateur.
 
 ## Rôles
 Les rôles contiennent des permissions, ces permissions permettent d'effectuer des actions dans l'application. Par défaut, un rôle appelé `Admin` est créé et possède un accès complet à l'application.
