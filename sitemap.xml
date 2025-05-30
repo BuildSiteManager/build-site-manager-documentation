@@ -2,98 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>Nonecompany/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonecompany/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/company/"/>
     </url>
     <url>
         <loc>None./</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="None"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
+        <loc>Nonelicences_management/</loc>
+        <lastmod>2025-05-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonelicences_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/licences_management/"/>
+    </url>
+    <url>
         <loc>Noneproject/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Noneproject/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/project/"/>
     </url>
     <url>
         <loc>Noneregister/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Noneregister/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/register/"/>
     </url>
     <url>
         <loc>Nonescheduler/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonescheduler/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/scheduler/"/>
     </url>
     <url>
         <loc>Nonetask_authorization/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonetask_authorization/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/task_authorization/"/>
     </url>
     <url>
         <loc>Nonetime_type/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonetime_type/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/time_type/"/>
     </url>
     <url>
         <loc>Noneen/company/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/company/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonecompany/"/>
     </url>
     <url>
         <loc>Noneen/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="None"/>
     </url>
     <url>
+        <loc>Noneen/licences_management/</loc>
+        <lastmod>2025-05-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/licences_management/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonelicences_management/"/>
+    </url>
+    <url>
         <loc>Noneen/project/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/project/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Noneproject/"/>
     </url>
     <url>
         <loc>Noneen/register/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/register/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Noneregister/"/>
     </url>
     <url>
         <loc>Noneen/scheduler/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/scheduler/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonescheduler/"/>
     </url>
     <url>
         <loc>Noneen/task_authorization/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/task_authorization/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonetask_authorization/"/>
     </url>
     <url>
         <loc>Noneen/time_type/</loc>
-        <lastmod>2025-05-24</lastmod>
+        <lastmod>2025-05-30</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/time_type/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="Nonetime_type/"/>
