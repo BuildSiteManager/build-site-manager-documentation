@@ -18,6 +18,6 @@ Une fois le paiement effectué, revenez sur la page de gestion des licences et a
 
 ## Gérer les licences
 
-Les licences peuvent être gérées depuis le portail de facturation. Pour y acceder, Allez dans l'onglet `COMPTE CLIENT` puis cliquez sur `PORTAIL DE FACTURATION`. Vous serez redirigé vers le portail de facturation où vous pourrez gérer vos licences, modifier la quantité, annuler un abonnement, etc.
+Les licences peuvent être gérées depuis le portail de facturation. Pour y accéder, allez dans l'onglet `COMPTE CLIENT` puis cliquez sur `PORTAIL DE FACTURATION`. Vous serez redirigé vers le portail de facturation où vous pourrez gérer vos licences, modifier la quantité, annuler un abonnement, etc.
 
 ![licence_billing](./assets/img/licence_billing.png)
