@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>Nonecompany/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/company/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonecompany/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/company/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/company/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/company/"/>
     </url>
     <url>
-        <loc>None./</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="None"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/"/>
     </url>
     <url>
-        <loc>Nonelicences_management/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/licences_management/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonelicences_management/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/licences_management/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/licences_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/licences_management/"/>
     </url>
     <url>
-        <loc>Noneproject/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/project/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Noneproject/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/project/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/project/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/project/"/>
     </url>
     <url>
-        <loc>Noneregister/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/register/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Noneregister/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/register/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/register/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/register/"/>
     </url>
     <url>
-        <loc>Nonescheduler/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/scheduler/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonescheduler/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/scheduler/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/scheduler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/scheduler/"/>
     </url>
     <url>
-        <loc>Nonetask_authorization/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/task_authorization/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonetask_authorization/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/task_authorization/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/task_authorization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/task_authorization/"/>
     </url>
     <url>
-        <loc>Nonetime_type/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/time_type/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonetime_type/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/time_type/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/time_type/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/time_type/"/>
     </url>
     <url>
-        <loc>Noneen/company/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/company/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/company/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonecompany/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/company/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/company/"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/"/>
     </url>
     <url>
-        <loc>Noneen/licences_management/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/licences_management/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/licences_management/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonelicences_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/licences_management/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/licences_management/"/>
     </url>
     <url>
-        <loc>Noneen/project/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/project/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/project/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Noneproject/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/project/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/project/"/>
     </url>
     <url>
-        <loc>Noneen/register/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/register/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/register/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Noneregister/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/register/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/register/"/>
     </url>
     <url>
-        <loc>Noneen/scheduler/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/scheduler/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/scheduler/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonescheduler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/scheduler/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/scheduler/"/>
     </url>
     <url>
-        <loc>Noneen/task_authorization/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/task_authorization/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/task_authorization/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonetask_authorization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/task_authorization/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/task_authorization/"/>
     </url>
     <url>
-        <loc>Noneen/time_type/</loc>
-        <lastmod>2025-05-30</lastmod>
+        <loc>https://buildsitemanager.github.io/build-site-manager-documentation/en/time_type/</loc>
+        <lastmod>2025-05-31</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/time_type/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="Nonetime_type/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://buildsitemanager.github.io/build-site-manager-documentation/en/time_type/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://buildsitemanager.github.io/build-site-manager-documentation/time_type/"/>
     </url>
 </urlset>
